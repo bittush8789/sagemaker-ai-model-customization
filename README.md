@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![AWS](https://img.shields.io/badge/AWS-SageMaker_AI-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/sagemaker/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/sourangshupal/sagemaker-model-customization-demo/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/bittush8789/sagemaker-ai-model-customization/pulls)
 
 **Serverless model customization on [Amazon SageMaker AI](https://aws.amazon.com/sagemaker/) — end to end.**
 Fine-tune open models with **LoRA**, align them to human preferences with **DPO**, evaluate them with managed pipelines and LLM-as-judge, and deploy to a **vLLM** endpoint — all without provisioning a single instance.
@@ -135,8 +135,8 @@ git clone https://github.com/aws-samples/generative-ai-on-amazon-sagemaker.git
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/sourangshupal/sagemaker-model-customization-demo.git
-cd sagemaker-model-customization-demo
+git clone https://github.com/bittush8789/sagemaker-ai-model-customization.git
+cd sagemaker-ai-model-customization
 
 # 2. Create a virtual environment
 python -m venv .venv && source .venv/bin/activate
